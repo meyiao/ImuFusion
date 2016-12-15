@@ -8,8 +8,7 @@
 ## Usage
 Example data already included. Simply run the orien.m or zupt.m. For zupt, set 'CreateVideo' as true if you'd like to save the results in a video.<br>
 
-## Reference:
-[1] 
-[2]
-[3]
-[4]
+## References:
+[1] S. Madgwick. An efficient orientation filter for inertial and inertial/magnetic sensor arrays.<br>
+[2] Fischer C, Sukumar P T, Hazas M. implementing a Pedestrian Tracker Using inertial Sensors.<br>
+[3] Isaac Skog, Peter Händel, John-Olof Nilsson, and Jouni Rantakokko. Zero-Velocity Detection — An Algorithm Evaluation.<br>
