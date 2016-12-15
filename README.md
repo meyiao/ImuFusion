@@ -7,7 +7,7 @@
 
 ## Usage
 Example data already included.<br>
-Simply run the orien.m or zupt.m. For zupt, set 'CreateVideo' as true if you'd like to save the results in a video.<br>
+Simply run the orien.m or zupt.m. For zupt, set 'CreateVideo' as true if you'd like to save the results as a video.<br>
 Note that the datasets and the code for visualizing the results were from:
 https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU
 
