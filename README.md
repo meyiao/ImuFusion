@@ -13,5 +13,5 @@ https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU
 
 ## References:
 [1] S. Madgwick. An efficient orientation filter for inertial and inertial/magnetic sensor arrays.<br>
-[2] Fischer C, et. implementing a Pedestrian Tracker Using inertial Sensors.<br>
+[2] Fischer C, et. Implementing a Pedestrian Tracker Using inertial Sensors.<br>
 [3] Isaac Skog, et. Zero-Velocity Detection — An Algorithm Evaluation.<br>
