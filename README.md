@@ -2,7 +2,7 @@
 ## EKF IMU Fusion Algorithms
 1. orien.m uses Kalman filter for fusing the gyroscope's and accelerometer's readings to get the IMU's attitude(quaternion).<br>
 2. zupt.m implenments the so called 'zero-velocity-update' algorithm for pedestrian tracking(gait tracking), it's also a ekf filter.<br>
-* Video: http://v.youku.com/v_show/id_XMTgzOTgzMjMyOA==.html?spm=a2hzp.8244740.userfeed.5!2~5~5~5!2~A
+* Video: http://v.youku.com/v_show/id_XMTg2NjI4NTI4NA==.html
 
 
 ## Usage
